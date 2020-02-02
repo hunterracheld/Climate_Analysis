@@ -8,6 +8,6 @@ After completing the initial analysis, a Flask API is designed based on the quer
 
 Notes:
 
-1.This project includes bonus challenges. I did not complete all of them. The starter code contained in the bottom half of the Jupyter Notebook is for the remaining challenge, which is a work in progress.
+1. This project includes bonus challenges. I did not complete all of them. The starter code contained in the bottom half of the Jupyter Notebook is for the remaining challenge, which is a work in progress.
 
 2. The python file is in the resources folder along with the sql files. 
